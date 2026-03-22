@@ -8,7 +8,7 @@ Para configurar os cargos e as reções basta usar !reactionrole.
   Exemplo: !reactionrole Escolha os seus cargos reagindo abaixo: "EMOJI" @"CARGO_DO_SERVIDOR".
 Para que os usuários saibam qual emoji escolher, é interessante você escrever uma mensagem antes, explicando cada cargo. (ou se desejar, edite o código e me mande uma pull request.)
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 en-us
 
