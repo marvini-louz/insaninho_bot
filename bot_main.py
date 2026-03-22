@@ -1,4 +1,4 @@
-import discord
+Kimport discord
 from discord.ext import commands
 
 # -------- CONFIGURAÇÃO BÁSICA --------
@@ -20,7 +20,7 @@ async def on_ready():
     print(f"Bot {bot.user} está online.")
 
     for message_id, mapa in reaction_roles.items():
-        canal = bot.get_channel(1407066934759129128)  # substitua pelo canal correto
+        canal = bot.get_channel(CANAL DESEJADO)  # substitua pelo canal correto
         message = await canal.fetch_message(message_id)
         for reaction in message.reactions:
             if str(reaction.emoji) in mapa:
@@ -94,4 +94,4 @@ async def on_raw_reaction_remove(payload):
 
 
 # -------- RODAR O BOT --------
-bot.run("NDg2NjIxNjE4ODQ4OTIzNjY5.GEi3AY.1mHCjj5zYqIPVsXbmB3NbMDW1dN6fRskYYTIk8")
+bot.run("SEU TOKEN")
